@@ -1,37 +1,84 @@
-## Welcome to GitHub Pages
+## App-ocalypse
+#### by [SparkScratch_P](https://github.com/SparkScratch-P) and [other contributors](https://github.com/orgs/App-ocalypse/people)
 
-You can use the [editor on GitHub](https://github.com/App-ocalypse/app-ocalypse.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![icon](https://github.com/App-ocalypse/App-ocalypse/blob/main/appocalypse%20poster%20icon.png?raw=true)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#Visit our stores!
+---
 
-### Markdown
+[![icon](https://raw.githubusercontent.com/App-ocalypse/App-ocalypse/gh-pages/cooltext375090719842647.png "Visit The App Box") ](https://app-ocalypse.github.io/Appbox/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<iframe src="https://app-ocalypse.github.io/Appbox/" allowtransparency="true" width="550" height="402" frameborder="10" scrolling="yes" allowfullscreen></iframe>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+[![icon](https://raw.githubusercontent.com/App-ocalypse/Appbox/gh-pages/gamebox%20title.png "Visit The Game Box") ](https://app-ocalypse.github.io/Gamebox/)
 
-- Bulleted
-- List
+<iframe src="https://app-ocalypse.github.io/Gamebox/" allowtransparency="true" width="550" height="402" frameborder="10" scrolling="yes" allowfullscreen></iframe>
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
+Licensed under [GNU General Public License v3.0](https://github.com/App-ocalypse/App-ocalypse/blob/main/LICENSE)
 
-[Link](url) and ![Image](src)
-```
+#### What if I say... 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+   All apps here'd survive the [app-ocalypse](https://techcrunch.com/2017/06/05/apples-idea-of-an-apocalypse-is-a-world-without-apps/)?
+  
+   But it's **true!** .
+  
+  
+  All apps that u get here will survive long!
+  
+  Suppose everything in the world is destroyed.. and humans face an appocalypse! Github pages and repoisitories survive in the [Arctic Code Vault](https://archiveprogram.github.com/), but not active, even after thosands of years, if ever the Code Vault is opened and reactivated on the web! these apps will run!
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/App-ocalypse/app-ocalypse.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### This organisasion, **App-ocalypse** is maintained by [SparkScratch_P](https://sparkscratch-p.github.io/Home/)
+[![github](https://raw.githubusercontent.com/SparkScratch-P/Home/gh-pages/github.png) ](https://github.com/SparkScratch-P) [ ![scratch](https://raw.githubusercontent.com/SparkScratch-P/Home/gh-pages/scratch.png) ](https://scratch.mit.edu/users/SparkScratch_P/) [ ![Scratch Wiki](https://raw.githubusercontent.com/SparkScratch-P/Home/gh-pages/scratch%20wiki.png)](https://en.scratch-wiki.info/wiki/User:SparkScratch_P)
 
-### Support or Contact
+This organisation uses [nativefier](https://github.com/jiahaog/nativefier#nativefier) by [jiahaog](https://jiahao.codes/)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Available Apps
+
+ App-Ocalypse provides Applications for Windows, Mac OS and Linux. We will try to provide Android Apps soon! The apps are Available in our [App-Box](https://app-ocalypse.github.io/Appbox/) .
+  The Download button will lead users to a Shared Google Drive project. One may download the app installer from there.
+
+## Request Build
+---
+You can request an app to be built. The following things can be converted into a Windows application:
+- Scratch Projects (Cloud Variables connect with original scratch server) from following formats:
+   - Turbowrap
+   - Forkphorus
+   - Leopard (Vercel Codesandbox web page URL required for ownership)
+- Website (First page as per your wish_ Default: Home page)  
+- Github repoisitory
+
+[![re](https://raw.githubusercontent.com/App-ocalypse/App-ocalypse/gh-pages/request.png)](https://github.com/App-ocalypse/App-ocalypse/issues/2)
+
+   ---
+   
+   
+### Join this Organisation!
+Join this organisation and create exciting apps and upload them here for public use!
+
+[![JOIn](https://raw.githubusercontent.com/App-ocalypse/App-ocalypse/gh-pages/cooltext374945416100715.png) ](https://github.com/App-ocalypse)
+
+#### On-demand Developers:
+- Mac and Linux users of Node.js
+- Web-developers on MarkDown
+- Conversion specialists:
+   - HTML to exe,app,love
+   - Sb3 to exe,app,love
+   
+#### Developer's Decorum   
+
+It is a set of Guidelines all developers have to follow to upload apps in is organisation's web.
+
+
+[![read](https://raw.githubusercontent.com/App-ocalypse/App-ocalypse/gh-pages/read%20btn.png) ](https://app-ocalypse.github.io/Development-Decorum/)
+---
+   
+  [![Feedbacks](https://raw.githubusercontent.com/App-ocalypse/App-ocalypse/gh-pages/scars-to-your-beautiful-ford-festiva-karaoke-mp3-know-it-all-feedback-button-png-image-432119d4af9a5b77388892542b53f37c.png)](https://github.com/App-ocalypse/App-ocalypse/issues/1)
+   
+# THANK YOU
+
+
+
